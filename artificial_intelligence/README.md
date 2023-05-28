@@ -1,3 +1,2 @@
 # Artificial Intelligence Projects
 
-s
